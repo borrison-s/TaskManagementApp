@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementApp.DataAcces
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementApp.Helpers", "TaskManagementApp.Helpers\TaskManagementApp.Helpers.csproj", "{A03987BC-EDC9-432B-97A0-5278C8418607}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementApp.Services", "TaskManagementApp.Services\TaskManagementApp.Services.csproj", "{5B9E0068-78BB-432D-A89C-68523B5D7B1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementApp.Dtos", "TaskManagementApp.Dtos\TaskManagementApp.Dtos.csproj", "{1E0CD550-7FE3-42F6-B928-9B9BF8EDCE50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementApp.Mappers", "TaskManagementApp.Mappers\TaskManagementApp.Mappers.csproj", "{B31168B9-E59A-42C9-8F85-E3EEF6DAFBC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +39,18 @@ Global
 		{A03987BC-EDC9-432B-97A0-5278C8418607}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A03987BC-EDC9-432B-97A0-5278C8418607}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A03987BC-EDC9-432B-97A0-5278C8418607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B9E0068-78BB-432D-A89C-68523B5D7B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9E0068-78BB-432D-A89C-68523B5D7B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9E0068-78BB-432D-A89C-68523B5D7B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9E0068-78BB-432D-A89C-68523B5D7B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E0CD550-7FE3-42F6-B928-9B9BF8EDCE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0CD550-7FE3-42F6-B928-9B9BF8EDCE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0CD550-7FE3-42F6-B928-9B9BF8EDCE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0CD550-7FE3-42F6-B928-9B9BF8EDCE50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31168B9-E59A-42C9-8F85-E3EEF6DAFBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31168B9-E59A-42C9-8F85-E3EEF6DAFBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31168B9-E59A-42C9-8F85-E3EEF6DAFBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31168B9-E59A-42C9-8F85-E3EEF6DAFBC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
